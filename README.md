@@ -7,7 +7,9 @@ CCBL is a utility on Python for encoding and decoding Caesar cipher for Belarusi
 - run CCBL.py, paste your alphabet in "Custom Alphabet" box.
 #### Examples of alphabets:
 ENG: абвгдеёжзійклмнопрстуўфхцчшыьэюяАБВГДЕЁЖЗІЙКЛМНОПРСТУЎФХЦЧШЫЬЭЮЯ
+
 RUS: абвгдеёжзийклмнопрстуфхцчшщъыьэюяАБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ
+
 BEL: abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
 
-<img src="https://raw.githubusercontent.com/Liam-q3v6z/CaesarCipherBelarusianLanguage/refs/heads/main/img0.png" width=35% height=35%>
+<img src="https://raw.githubusercontent.com/Liam-q3v6z/CaesarCipherBelarusianLanguage/refs/heads/main/img0.png" width=30% height=30%>
