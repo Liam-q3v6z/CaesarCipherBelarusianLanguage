@@ -12,4 +12,4 @@ RUS: абвгдеёжзийклмнопрстуфхцчшщъыьэюяАБВГ�
 
 BEL: abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
 
-<img src="https://raw.githubusercontent.com/Liam-q3v6z/CaesarCipherBelarusianLanguage/refs/heads/main/img0.png" width=30% height=30%>
+<img src="https://raw.githubusercontent.com/Liam-q3v6z/CaesarCipherBelarusianLanguage/refs/heads/main/preview.png" width=30% height=30%>
